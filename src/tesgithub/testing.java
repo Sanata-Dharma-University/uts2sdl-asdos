@@ -11,6 +11,7 @@ package tesgithub;
 public class testing {
     public static void main(String[] args) {
         System.out.println("Halo");
+        System.out.println("ege ganteng");
     }
     
 }
